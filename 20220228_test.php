@@ -7,7 +7,5 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="a"></a>
-    test
-</body>
+    <p>test</p>
 </html>
